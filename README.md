@@ -1,5 +1,5 @@
 
-<button type="button" onclick="alert('hello')">Hello</button>
+<button type="button" onclick="go_to('home.html')">Puppies and Games</button>
 # Puppies and Games
 
 <head>
