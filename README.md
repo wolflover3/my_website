@@ -1,5 +1,5 @@
-# my_website
+# Puppies and Games
 
 <head>
-my_read_me
+Hi! Welcome to the wonderful Puppies and Games!!
 </head>
