@@ -1,5 +1,5 @@
 
-<button type="button" onclick="alert('https://wolflover3.github.io/my_website/home.html')">Puppies and Games</button>
+<button type="button" onclick="goto('https://wolflover3.github.io/my_website/home.html')">Puppies and Games</button>
 # Puppies and Games
 
 <head>
